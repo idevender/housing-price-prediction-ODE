@@ -44,3 +44,28 @@ Usage
     *   Actual vs Predicted House Prices (ODE)
         
     *   Actual vs Predicted House Prices (GD)
+  
+## Results
+
+### Loss Curves: ODE vs Gradient Descent
+![Loss Curves](images/loss_curves.png)
+
+### Actual vs Predicted House Prices (ODE)
+![Actual vs Predicted Prices (ODE)](images/actual_vs_predicted_ode.png)
+
+### Actual vs Predicted House Prices (GD)
+![Actual vs Predicted Prices (GD)](images/actual_vs_predicted_gd.png)
+
+## Conclusion
+
+The project demonstrates the effectiveness of using ODE and Gradient Descent for predicting housing prices. The loss curves indicate the convergence behavior of both methods. While the ODE approach shows promising results with a lower final loss compared to Gradient Descent, both methods have their merits and can be chosen based on the specific requirements and computational resources available.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- The California housing dataset is provided by the `fetch_california_housing` function from `sklearn.datasets`.
+- Thanks to the open-source community for providing the tools and libraries used in this project.
+
