@@ -51,10 +51,10 @@ Usage
 ![Loss Curves](images/loss_curves.png)
 
 ### Actual vs Predicted House Prices (ODE)
-![Actual vs Predicted Prices (ODE)](images/actual_vs_predicted_ode.png)
+![Actual vs Predicted Prices (ODE)](images/predicted_prices_ode.png)
 
 ### Actual vs Predicted House Prices (GD)
-![Actual vs Predicted Prices (GD)](images/actual_vs_predicted_gd.png)
+![Actual vs Predicted Prices (GD)](images/predicted_prices_gd.png)
 
 ## Conclusion
 
